@@ -31,7 +31,7 @@
   1. [Adriano Machado](https://github.com/Adriano888)
   2. [Jose Ailton](https://github.com/AiltonOliver)
   3. [tallys dos Santos](https://github.com/tllystroller)
-  4. [Guilheme Marinho](GitHub here)
+  4. [Guilheme Marinho](https://github.com/GuilherAndrad)
   5. [Yago Alves ](https://github.com/Yago-Captain)
   6. [Samuel da Silva](GitHub here)
   
