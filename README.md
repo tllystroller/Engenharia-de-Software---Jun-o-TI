@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h2>Engenharia Software - Projeto01</h2>
+  <h2>Engenharia Software </h2>
   
   ![image](https://user-images.githubusercontent.com/61589386/117751503-9a5ab980-b1eb-11eb-8e98-8f2b58a28f46.png) 
   
@@ -19,15 +19,25 @@
 <h1> Sobre o Projeto </h1>
 </div> 
   
+ ### Disciplina de Engenharia de Software
  
+ ###### *Professor(a)*
+  :books: [Paulo Henrique Sousa Barbosa](https://github.com/agenteph) :books:
+  
+
 
 <h4>Membros do Grupo :Gang of Six </h4>
 
-
-  1. [Adriano](GitHub here)
+  1. [Adriano Machado](https://github.com/Adriano888)
   2. [Jose Ailton](https://github.com/AiltonOliver)
-  3. [tllys Troller](https://github.com/tllystroller)
-  4. [Aluno here](GitHub here)
-  5. [Aluno here](GitHub here)
-  6. [Aluno here] (GitHub here)
+  3. [tallys dos Santos](https://github.com/tllystroller)
+  4. [Guilheme Marinho](GitHub here)
+  5. [Yago Alves ](GitHub here)
+  6. [Samuel da Silva](GitHub here)
+  
+  
+<div align="center">
+<h1> Sumário </h1>
+</div> 
 
+Para visualisar o sumário [clique aqui](link )
