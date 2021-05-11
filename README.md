@@ -40,4 +40,4 @@
 <h1> Sumário </h1>
 </div> 
 
-Para visualisar o sumário [clique aqui](link )
+Para visualisar o sumário [clique aqui](https://github.com/tllystroller/Engenharia-de-Software-Gang-of-Six/wiki)
