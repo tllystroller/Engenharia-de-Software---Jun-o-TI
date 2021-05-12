@@ -33,7 +33,7 @@
   3. [tallys dos Santos](https://github.com/tllystroller)
   4. [Guilheme Marinho](https://github.com/GuilherAndrad)
   5. [Yago Alves ](https://github.com/Yago-Captain)
-  6. [Samuel da Silva](GitHub here)
+  6. [Samuel da Silva](https://github.com/Smk3Br)
   
   
 <div align="center">
