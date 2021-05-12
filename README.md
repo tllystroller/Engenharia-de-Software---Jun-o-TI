@@ -37,7 +37,7 @@
   
   
 <div align="center">
-<h1> Sobre o projeto </h1>
+<h1> Topico </h1>
 </div> 
 
 Sumario [clique aqui](https://github.com/tllystroller/Engenharia-de-Software-Gang-of-Six/wiki)
