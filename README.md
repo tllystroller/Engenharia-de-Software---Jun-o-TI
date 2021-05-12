@@ -32,7 +32,7 @@
   2. [Jose Ailton](https://github.com/AiltonOliver)
   3. [Tallys dos Santos](https://github.com/tllystroller)
   4. [Guilheme Marinho](https://github.com/GuilherAndrad)
-  5. [Yago Alves ](https://github.com/Yago-Captain)
+  5. [Yago Alves ](https://github.com/Yago-Captain) 😎
   6. [Samuel da Silva](https://github.com/Smk3Br)
   
   
