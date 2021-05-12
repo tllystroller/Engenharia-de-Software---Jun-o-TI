@@ -40,4 +40,7 @@
 <h1> Sumário </h1>
 </div> 
 
-Para visualisar o sumário [clique aqui](https://github.com/tllystroller/Engenharia-de-Software-Gang-of-Six/wiki)
+1. O que é engenharia de software [clique aqui](https://github.com/tllystroller/Engenharia-de-Software-Gang-of-Six/wiki)
+2. Etapa do poceso de desenvolvimento [clique aqui](https://github.com/tllystroller/Engenharia-de-Software-Gang-of-Six/wiki)
+3. Modelo de processos de software [clique aqui](https://github.com/tllystroller/Engenharia-de-Software-Gang-of-Six/wiki)
+4. Requisitos de Software engenhaia de requisitos [clique aqui](https://github.com/tllystroller/Engenharia-de-Software-Gang-of-Six/wiki)
