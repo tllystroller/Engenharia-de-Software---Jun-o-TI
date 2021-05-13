@@ -28,9 +28,9 @@
 
 <h4>Membros do Grupo :Gang of Six </h4>👨‍💼👨‍💼👨‍💼👨‍💼😎👨‍💼
 
-  1. [Adriano Machado](https://github.com/Adriano888)👨‍💼
-  2. [Jose Ailton](https://github.com/AiltonOliver)👨‍💼
-  3. [Tallys dos Santos](https://github.com/tllystroller)👨‍💼
+  1. [Adriano Machado](https://github.com/Adriano888)
+  2. [Jose Ailton](https://github.com/AiltonOliver)
+  3. [Tallys dos Santos](https://github.com/tllystroller)
   4. [Guilheme Marinho](https://github.com/GuilherAndrad)
   5. [Yago Alves ](https://github.com/Yago-Captain) 😎
   6. [Samuel da Silva](https://github.com/Smk3Br)
