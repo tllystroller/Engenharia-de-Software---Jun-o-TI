@@ -26,7 +26,7 @@
   
 
 
-<h4>Membros do Grupo :Gang of Six </h4>👨‍💼👨‍💼👨‍💼👨‍💼
+<h4>Membros do Grupo :Gang of Six </h4>👨‍💼👨‍💼👨‍💼👨‍💼👨‍💼
 
   1. [Adriano Machado](https://github.com/Adriano888)
   2. [Jose Ailton](https://github.com/AiltonOliver)
