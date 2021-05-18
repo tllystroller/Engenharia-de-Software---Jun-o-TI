@@ -40,4 +40,4 @@
 <h1> Topico </h1>
 </div> 
 
-Sumario [clique aqui](https://github.com/tllystroller/Engenharia-de-Software-Gang-of-Six/wiki)
+Sumario [clique aqui](https://github.com/tllystroller/Engenharia-de-Software-Gang-of-Six/wiki/Engenharia-de-software)
